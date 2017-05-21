@@ -4,7 +4,7 @@
   "development": 2,
   "_comment": "Build number must be incremented for each build.",
   "builds": [
-    {"buildNumber": 2, "version": "sample-2.0.0", "main": "app.js", "enabled": 0},
+    {"buildNumber": 2, "version": "sample-2.0.0", "main": "app.js", "enabled": 1},
     {"buildNumber": 1, "version": "sample-1.0.0", "main": "app.js", "enabled": 1}
   ]
 }
